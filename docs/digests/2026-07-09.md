@@ -10,11 +10,11 @@
 
 ### [My thoughts on the Bun Rust rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
 
-- 546 分 · 480 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48843352)
+- 548 分 · 480 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48843352)
 
 ### [GPT-5.6](https://openai.com/index/gpt-5-6/)
 
-- 483 分 · 312 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849066)
+- 493 分 · 317 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849066)
 
 ### [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 
@@ -22,7 +22,7 @@
 
 ### [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 
-- 156 分 · 54 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849059)
+- 163 分 · 55 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849059)
 
 ### [Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
 
@@ -34,7 +34,7 @@
 
 ### [Show HN: Analog Watch](https://analog.watch)
 
-- 60 分 · 58 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48846510)
+- 60 分 · 59 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48846510)
 
 ### [Maxwell's Equations Were Discovered [video]](https://www.youtube.com/watch?v=-hua8RWopfw)
 
@@ -50,7 +50,7 @@
 
 ### [Show HN: Reverse-engineering web apps into agent tools](https://news.ycombinator.com/item?id=48847834)
 
-- 16 分 · 4 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48847834)
+- 16 分 · 5 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48847834)
 
 ### [Reverse-engineering Nvidia's CUDA-checkpoint for faster cold starts](https://blog.doubleword.ai/what-happens-when-you-checkpoint-a-cuda-process)
 
