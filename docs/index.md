@@ -12,11 +12,11 @@
 
 ### [My thoughts on the Bun Rust rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
 
-- 550 分 · 480 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48843352)
+- 550 分 · 481 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48843352)
 
 ### [GPT-5.6](https://openai.com/index/gpt-5-6/)
 
-- 510 分 · 330 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849066)
+- 519 分 · 339 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849066)
 
 > https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf https://developers.openai.com/api/docs/guides/latest-model
 
@@ -28,7 +28,7 @@
 
 ### [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 
-- 170 分 · 59 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849059)
+- 173 分 · 62 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48849059)
 
 ### [Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
 
@@ -44,7 +44,7 @@
 
 ### [Show HN: Analog Watch](https://analog.watch)
 
-- 63 分 · 58 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48846510)
+- 64 分 · 58 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48846510)
 
 > Read 3 analog clocks as fast as you can!
 
@@ -52,7 +52,7 @@
 
 - 41 分 · 14 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=48846276)
 
-> Get 5% off all Radiacode devices and accessories with a link https://radiacode.com/100-series?discount=REASON or use promo code REASON at checkout.Radiacode ...
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 ### [How version control will evolve for the agent boom](https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom)
 
