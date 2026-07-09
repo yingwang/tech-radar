@@ -32,7 +32,7 @@ KEYWORDS = [
 ]
 
 # GitHub Trending 追踪的语言（空串代表「全部语言」）。想加减就改这里。
-TRENDING_LANGS = ["", "python", "kotlin"]
+TRENDING_LANGS = [""]
 
 HN_TOP = "https://hacker-news.firebaseio.com/v0/topstories.json"
 HN_ITEM = "https://hacker-news.firebaseio.com/v0/item/{}.json"
@@ -56,6 +56,50 @@ def get(url: str, timeout: int = 60) -> bytes:
 
 def get_json(url: str):
     return json.loads(get(url).decode("utf-8"))
+
+
+def snippet(text: str, limit: int = 240) -> str:
+    text = text.strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    dot = cut.rfind(". ")
+    if dot > limit * 0.5:
+        return cut[: dot + 1]
+    return cut.rstrip() + "…"
+
+
+def fetch_excerpt(url: str) -> str:
+    """从文章页取几行摘录：优先 og:description / meta description，取不到就返回空串。"""
+    try:
+        page = get(url, timeout=10).decode("utf-8", "replace")
+    except Exception:
+        return ""
+    found = {"og:description": "", "description": "", "twitter:description": ""}
+    for tag in re.findall(r"<meta\b[^>]*>", page, re.I):
+        km = re.search(r'(?:property|name)\s*=\s*(["\'])(.*?)\1', tag, re.I)
+        if not km:
+            continue
+        key = km.group(2).strip().lower()
+        if key not in found or found[key]:
+            continue
+        cm = re.search(r'content\s*=\s*(["\'])(.*?)\1', tag, re.I | re.S)
+        if cm:
+            found[key] = html.unescape(re.sub(r"\s+", " ", cm.group(2))).strip()
+    for key in ("og:description", "description", "twitter:description"):
+        if found[key]:
+            return snippet(found[key])
+    return ""
+
+
+def hn_excerpt(story: dict) -> str:
+    """Ask/Show HN 自带正文用 text 字段；外链帖抓文章页描述。"""
+    if story.get("text"):
+        plain = html.unescape(re.sub(r"<[^>]+>", " ", story["text"]))
+        return snippet(re.sub(r"\s+", " ", plain).strip())
+    if story.get("url"):
+        return fetch_excerpt(story["url"])
+    return ""
 
 
 def fetch_hn() -> list:
@@ -142,6 +186,10 @@ def build_digest(date_str: str) -> str:
                 f"[HN 讨论帖]({HN_ITEM_WEB.format(s['id'])})"
             )
             lines.append("")
+            excerpt = hn_excerpt(s)
+            if excerpt:
+                lines.append(f"> {excerpt}")
+                lines.append("")
     elif not hn_failed:
         lines += ["（今日无匹配条目。）", ""]
 
