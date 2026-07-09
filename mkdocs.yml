@@ -1,0 +1,29 @@
+site_name: 技术雷达
+site_description: 每日 Hacker News 与 GitHub Trending 摘要
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: 切换到夜间
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到日间
+  features:
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - 最新: index.md
+  - 历史: archive.md
+
+markdown_extensions:
+  - toc:
+      permalink: true

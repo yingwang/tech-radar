@@ -1,0 +1,45 @@
+name: Daily Tech Radar
+
+on:
+  schedule:
+    - cron: '23 7 * * *'   # 每天 07:23 UTC（约斯德哥尔摩夏令时 09:23）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: 抓取并生成当日雷达
+        run: python3 fetch_radar.py
+
+      - name: 提交到 main
+        run: |
+          git config user.name "Ying Wang"
+          git config user.email "xingqiwang@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无改动，跳过提交"
+          else
+            git commit -m "tech radar $(date -u +%F)"
+            git push
+          fi
+
+      - name: 安装 mkdocs 并部署 Pages
+        run: |
+          pip install -r requirements.txt
+          mkdocs gh-deploy --force
