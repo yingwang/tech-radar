@@ -17,6 +17,7 @@ import datetime
 import html
 import json
 import re
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -41,6 +42,9 @@ HN_SCAN = 90           # 扫描 HN 前多少条 top story
 HN_MAX = 15            # 最多收录多少条命中关键词的 HN
 HN_FALLBACK = 6        # 命中太少时，用得分最高的补足到这个数
 GH_MAX_PER_LANG = 8    # 每种语言最多收录多少个 trending repo
+HN_TOP_TIMEOUT = 10    # HN 首页请求最长等待时间（秒）
+HN_ITEM_TIMEOUT = 5    # 单条 HN 请求最长等待时间（秒）
+HN_FETCH_BUDGET = 120  # 整个 HN 拉取阶段的总时间预算（秒）
 
 ROOT = Path(__file__).resolve().parent
 DIGEST_DIR = ROOT / "docs" / "digests"
@@ -54,8 +58,24 @@ def get(url: str, timeout: int = 60) -> bytes:
         return resp.read()
 
 
-def get_json(url: str):
-    return json.loads(get(url).decode("utf-8"))
+def get_json(url: str, timeout: float = 60):
+    return json.loads(get(url, timeout=timeout).decode("utf-8"))
+
+
+def markdown_text(value: object) -> str:
+    """将外部文本转为可安全写入 Markdown 的单行文本。"""
+    text = re.sub(r"\s+", " ", str(value)).strip()
+    text = html.escape(text, quote=False)
+    return re.sub(r"([\\`*_\[\]{}()#+!|])", r"\\\1", text)
+
+
+def safe_http_url(value: object, fallback: str) -> str:
+    """仅保留可用于 Markdown 链接的 HTTP(S) URL。"""
+    url = str(value).strip()
+    parsed = urllib.parse.urlsplit(url)
+    if parsed.scheme.lower() not in {"http", "https"} or not parsed.netloc:
+        return fallback
+    return urllib.parse.quote(url, safe=":/?&=#%+,-.;@_~")
 
 
 def snippet(text: str, limit: int = 240) -> str:
@@ -103,16 +123,26 @@ def hn_excerpt(story: dict) -> str:
 
 
 def fetch_hn() -> list:
-    ids = get_json(HN_TOP)[:HN_SCAN]
+    deadline = time.monotonic() + HN_FETCH_BUDGET
+    ids = get_json(HN_TOP, timeout=HN_TOP_TIMEOUT)[:HN_SCAN]
     stories = []
+    attempted = failures = 0
     for sid in ids:
+        remaining = deadline - time.monotonic()
+        if remaining <= 0:
+            break
+        attempted += 1
         try:
-            item = get_json(HN_ITEM.format(sid))
+            item = get_json(HN_ITEM.format(sid), timeout=min(HN_ITEM_TIMEOUT, remaining))
         except Exception:
+            failures += 1
             continue
         if not item or item.get("type") != "story" or not item.get("title"):
             continue
         stories.append(item)
+
+    if attempted and failures == attempted:
+        raise RuntimeError("未能在时间预算内获取任何 Hacker News 条目")
 
     hits, rest = [], []
     for s in stories:
@@ -173,12 +203,13 @@ def build_digest(date_str: str) -> str:
         hn = fetch_hn()
     except Exception as exc:
         hn, hn_failed = [], True
-        lines += [f"（Hacker News 抓取失败：{exc}）", ""]
+        lines += [f"（Hacker News 抓取失败：{markdown_text(exc)}）", ""]
     if hn:
         for s in hn:
             total += 1
-            link = s.get("url") or HN_ITEM_WEB.format(s["id"])
-            title = html.unescape(s.get("title", "").strip())
+            fallback_link = HN_ITEM_WEB.format(s["id"])
+            link = safe_http_url(s.get("url"), fallback_link)
+            title = markdown_text(html.unescape(s.get("title", "")))
             lines.append(f"### [{title}]({link})")
             lines.append("")
             lines.append(
@@ -188,7 +219,7 @@ def build_digest(date_str: str) -> str:
             lines.append("")
             excerpt = hn_excerpt(s)
             if excerpt:
-                lines.append(f"> {excerpt}")
+                lines.append(f"> {markdown_text(excerpt)}")
                 lines.append("")
     elif not hn_failed:
         lines += ["（今日无匹配条目。）", ""]
@@ -199,7 +230,7 @@ def build_digest(date_str: str) -> str:
         try:
             repos = fetch_github_trending(lang)
         except Exception as exc:
-            lines += [f"（抓取失败：{exc}）", ""]
+            lines += [f"（抓取失败：{markdown_text(exc)}）", ""]
             continue
         if not repos:
             lines += ["（今日无数据。）", ""]
@@ -207,8 +238,10 @@ def build_digest(date_str: str) -> str:
         for r in repos:
             total += 1
             star = f" · +{r['stars_today']} star/日" if r["stars_today"] else ""
-            desc = f" — {r['desc']}" if r["desc"] else ""
-            lines.append(f"- [{r['path']}](https://github.com/{r['path']}){star}{desc}")
+            path = markdown_text(r["path"])
+            repo_url = safe_http_url(f"https://github.com/{r['path']}", "https://github.com")
+            desc = f" — {markdown_text(r['desc'])}" if r["desc"] else ""
+            lines.append(f"- [{path}]({repo_url}){star}{desc}")
         lines.append("")
 
     lines += ["---", "", f"本期共收录 {total} 条。", ""]
