@@ -1,106 +1,78 @@
-# 技术雷达 · 2026-10-10
+# 技术雷达 · 2026-10-11
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
-
-- 401 分 · 181 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50018817)
-
-> Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen
-
-### [OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
-
-- 344 分 · 214 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50018350)
-
-> Later: https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-...
-
-### [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
-
-- 280 分 · 128 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50002665)
-
-### [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
-
-- 204 分 · 305 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50013902)
-
-> By the time I got out of bed yesterday, I had three people ask me if I'd seen the OpenAI announcement that the Partition Principle does not \(...\)
-
-### [Anthropic AI model submits false tip on unsolved Philly murder, police say](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
-
-- 181 分 · 133 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50027118)
-
-> An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.
-
-### [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
-
-- 124 分 · 39 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50021410)
-
-> The following is part of a series of posts about 2026 summer intern projects – for more, see “What the interns have wrought, special jumbo 2026 edition”
-
-### [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
-
-- 102 分 · 31 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50027853)
-
-> A few years ago, the only way to compile Rust code was using the rustc compiler with LLVM as a \[...\]
-
-### [Why are coding agents so dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
-
-- 94 分 · 91 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50020947)
-
-> Models are getting better and better, while the agents that drive them languish.
-
 ### [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 
-- 76 分 · 34 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50031614)
+- 305 分 · 141 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50031614)
 
 > Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...
 
-### [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)
+### [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
 
-- 57 分 · 18 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50027694)
+- 295 分 · 131 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50002665)
 
-> Today, we're excited to ship a faster, cleaner and more reliable Prime Agent, rewritten from the ground up in Rust.
+### [Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
 
-### [Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)
+- 166 分 · 72 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50021899)
 
-- 52 分 · 19 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=49983582)
+> How Cockroach Labs built MOLT Sinai, an AI coding “teaching hospital” that shipped IBM Db2 migration support in under two days.
 
-> Accelerating convergence in text-to-image with multiresolution prediction
+### [C for Rust programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 
-### [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
-
-- 39 分 · 18 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50005743)
+- 160 分 · 173 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50005743)
 
 > Interesting and unexpected details for Rust programmers learning the C programming language.
 
-### [Communication Between the Compiler, the Build System, and Beyond](https://shrub.industries/words/problem.html)
+### [GameBoy on E-Paper ESP32 at 30FPS \[video\]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
 
-- 20 分 · 3 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=49980208)
+- 120 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50039536)
 
-### [Show HN: A simple to-do app for iPhone, Mac, and your agent](https://ilia.page/writing/introducing-nagare)
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-- 14 分 · 14 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50029607)
+### [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 
-### [Rogue Anthropic AI agent gave police fake tip in unsolved murder case](https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo)
+- 117 分 · 83 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50039092)
 
-- 13 分 · 6 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50031438)
+> During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state.
 
-> Philadelphia police said the tip was "flagged as spam", but criticised the tech company for taking more than two months to detect and report the breach.
+### [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
+
+- 82 分 · 13 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50001234)
+
+### [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
+
+- 46 分 · 47 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50039630)
+
+> Your AI agents, in a stand-up call. See who is working, waiting or blocked. Free and open source: VS Code, Cursor, terminal or desktop app.
+
+### [Open-source version of Adobe Creative Suite, built with Rust, using AI](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/)
+
+- 13 分 · 6 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50041061)
+
+> People are excited for open-source Adobe alternatives.
+
+### [GPT-6 Astra performs unsanctioned supply-chain attacks in simulations](https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations)
+
+- 4 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50042051)
+
+> Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [morluto/rea](https://github.com/morluto/rea) · +25,784 star/日 — Reverse engineer anything with agents, from app behavior down to native binaries.
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) · +5,831 star/日 — Tool for automatic PS5 executables porting to Linux and Windows
-- [storytold/artcraft](https://github.com/storytold/artcraft) · +3,217 star/日 — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) · +1,189 star/日 — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML \+ SVG. No shadows. No Mermaid slop.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) · +178 star/日 — Context window optimization for AI coding agents. Sandboxes tool output \(98% reduction\), persists session memory, and enforces routing across 17 platforms via MCP \+ hooks.
-- [mattpocock/skills](https://github.com/mattpocock/skills) · +1,737 star/日 — Skills for Real Engineers. Straight from my .agents directory.
-- [flutter/flutter](https://github.com/flutter/flutter) · +39 star/日 — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) · +24 star/日 — An Open Source Machine Learning Framework for Everyone
+- [morluto/rea](https://github.com/morluto/rea) · +25,585 star/日 — Reverse engineer anything with agents, from app behavior down to native binaries.
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) · +3,977 star/日 — Tool for automatic PS5 executables porting to Linux and Windows
+- [storytold/artcraft](https://github.com/storytold/artcraft) · +2,956 star/日 — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) · +1,083 star/日 — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML \+ SVG. No shadows. No Mermaid slop.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) · +872 star/日 — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) · +314 star/日 — Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) · +541 star/日 — AirLLM 70B inference with single 4GB GPU
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) · +496 star/日 — Original Apollo 11 Guidance Computer \(AGC\) source code for the command and lunar modules.
 
 ---
 
-本期共收录 23 条。
+本期共收录 18 条。
