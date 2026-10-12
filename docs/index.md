@@ -1,78 +1,66 @@
-# 技术雷达 · 2026-10-11
+# 技术雷达 · 2026-10-12
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+### [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
 
-- 305 分 · 141 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50031614)
+- 610 分 · 871 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50047422)
 
-> Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...
+> Dusting off this tweet from April because this gap in shared understanding of LLM capability is \*widening\*. It's now less "two groups of people speaking past each other" and more a sharp funnel.
 
-### [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
+### [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 
-- 295 分 · 131 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50002665)
+- 237 分 · 284 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50051530)
 
-### [Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
+> Linux phones now have the hardware and software to succeed, but it is an open question whether they will become a viable alternative to the Android/iOS duopoly.
 
-- 166 分 · 72 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50021899)
+### [500B tokens later: Letting AI agents decompile a first-person shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 
-> How Cockroach Labs built MOLT Sinai, an AI coding “teaching hospital” that shipped IBM Db2 migration support in under two days.
-
-### [C for Rust programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
-
-- 160 分 · 173 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50005743)
-
-> Interesting and unexpected details for Rust programmers learning the C programming language.
-
-### [GameBoy on E-Paper ESP32 at 30FPS \[video\]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
-
-- 120 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50039536)
-
-> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-### [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
-
-- 117 分 · 83 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50039092)
+- 204 分 · 144 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50039092)
 
 > During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state.
 
-### [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
+### [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
 
-- 82 分 · 13 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50001234)
+- 79 分 · 38 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50058507)
 
-### [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
+### [Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)
 
-- 46 分 · 47 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50039630)
+- 71 分 · 19 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50041573)
 
-> Your AI agents, in a stand-up call. See who is working, waiting or blocked. Free and open source: VS Code, Cursor, terminal or desktop app.
+> An iPad IDE with local LLM inference on an AMD GPU over Thunderbolt: the upstream Linux amdgpu driver embedded as DriverKit, LemonSeed Engine, and live GPU telemetry. - Geramy/LemonSeed-Studio
 
-### [Open-source version of Adobe Creative Suite, built with Rust, using AI](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/)
+### [Safe SIMD in Rust, even on the inside](https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/)
 
-- 13 分 · 6 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50041061)
+- 63 分 · 4 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50033601)
 
-> People are excited for open-source Adobe alternatives.
+### [Choreographic Programming in Rust](https://github.com/hibanaworks/hibana)
 
-### [GPT-6 Astra performs unsanctioned supply-chain attacks in simulations](https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations)
+- 40 分 · 29 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50042936)
 
-- 4 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50042051)
+> Choreography-Derived Runtime Enforcement for Rust. Contribute to hibanaworks/hibana development by creating an account on GitHub.
 
-> Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models
+### [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)
+
+- 35 分 · 5 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50049588)
+
+> Hi HN\! I'm Saarth. I'm in 9th grade, and I built Atticus. Atticus is an incredibly fast and cheap Mac assistant that can do tasks for you.
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [morluto/rea](https://github.com/morluto/rea) · +25,585 star/日 — Reverse engineer anything with agents, from app behavior down to native binaries.
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) · +3,977 star/日 — Tool for automatic PS5 executables porting to Linux and Windows
-- [storytold/artcraft](https://github.com/storytold/artcraft) · +2,956 star/日 — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) · +1,083 star/日 — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML \+ SVG. No shadows. No Mermaid slop.
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) · +872 star/日 — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) · +314 star/日 — Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) · +541 star/日 — AirLLM 70B inference with single 4GB GPU
-- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) · +496 star/日 — Original Apollo 11 Guidance Computer \(AGC\) source code for the command and lunar modules.
+- [morluto/rea](https://github.com/morluto/rea) · +45,495 star/日 — Reverse engineer anything with agents, from app behavior down to native binaries.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) · +1,903 star/日 — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) · +394 star/日 — Context window optimization for AI coding agents. Sandboxes tool output \(98% reduction\), persists session memory, and enforces routing across 17 platforms via MCP \+ hooks.
+- [storytold/artcraft](https://github.com/storytold/artcraft) · +4,106 star/日 — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) · +142 star/日 — User-friendly AI Interface \(Supports Ollama, OpenAI API, ...\)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) · +2,100 star/日 — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML \+ SVG. No shadows. No Mermaid slop.
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) · +886 star/日 — AirLLM 70B inference with single 4GB GPU
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) · +134 star/日 — Official inference framework for 1-bit LLMs
 
 ---
 
-本期共收录 18 条。
+本期共收录 16 条。
