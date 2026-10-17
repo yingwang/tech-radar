@@ -1,94 +1,108 @@
-# 技术雷达 · 2026-10-16
+# 技术雷达 · 2026-10-17
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+### [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 
-- 1457 分 · 1036 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50073879)
+- 895 分 · 335 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50122800)
 
-> See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869
-
-### [Neural networks are clean](https://already-clean.goodfire.com/)
-
-- 731 分 · 274 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50105647)
-
-> https://twitter.com/nickcammarata/status/2110757819427574056
+> https://words.filippo.io/seeds-solved/
 
 ### [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds \[video\]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
 
-- 460 分 · 145 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50065859)
+- 844 分 · 250 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50065859)
 
 > Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-### [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)
+### [Neural networks are clean](https://already-clean.goodfire.com/)
 
-- 318 分 · 102 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50105648)
+- 805 分 · 328 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50105647)
 
-> Krea 3 is a new image editing model built for production. It keeps your product intact and is priced for volume.
+> https://twitter.com/nickcammarata/status/2110757819427574056
 
-### [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
+### [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 
-- 244 分 · 79 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50106738)
+- 362 分 · 333 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50122951)
 
-> Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 \(996 comments\) Anthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 \(149 comments\)
+> How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents.
 
-### [Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
+### [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 
-- 102 分 · 28 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50105467)
+- 320 分 · 75 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50122878)
 
-> Video: https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1 Video on multi-target rendering: https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq Benchmarks: https://github.com/Proa-Labs/proa-benchmarks
+> Every layer is a memory store
 
-### [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
+### [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
 
-- 25 分 · 19 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50100387)
+- 262 分 · 81 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50122112)
 
-> AI-Driven Life Cycle \(AI-DLC\) adaptive workflow steering rules for AI coding agents - awslabs/aidlc-workflows
+> https://finance.yahoo.com/technology/ai/articles/anthropic-s...
 
-### [Self-Evolving Agent Harness](https://arxiv.org/abs/2610.18813)
+### [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 
-- 13 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50114256)
+- 226 分 · 101 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50118688)
 
-> Harness self-evolution revises an agent's software scaffolding, including prompts, memory, workflows, and executable components, while keeping model weights fixed.
+> I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse
 
-### [MuscleMemory: Open-source procedural memory for AI agents](https://github.com/TheWariend/MuscleMemory)
+### [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
 
-- 8 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50113506)
+- 206 分 · 117 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50120101)
 
-> Open-source procedural memory for AI agents. Learns from what worked and what failed. - TheWariend/MuscleMemory
+> Today, Rep. Ritchie Torres \(NY-15\) announced he will introduce the Power To The Players Act, legislation that would direct the Federal Trade Commission to establish regulations protecting consumers’ ability to own and play the video games t…
 
-### [The Thinking Leakage in Reinforcement Learning for LLMs](https://arxiv.org/abs/2610.14270)
+### [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 
-- 7 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50113842)
+- 176 分 · 48 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50123580)
 
-> Hybrid reasoning models such as the Qwen3 series switch between a THINK mode and a NO-THINK mode through a few chat-template tokens.
+> Frontier image quality with the customization and speed of open weights: 5.6B parameters, first in text-to-image, multi-reference generation and editing.
 
-### [Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
+### [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
 
-- 6 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50113743)
+- 148 分 · 32 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50121939)
 
-> MLX on Mac with Apple silicon lets AI researchers and developers experiment locally with the latest models and methods in a private…
+> Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.
 
-### [Earbuds Don't Have to Be Disposable - Fairbuds 2 \(iFixit 10/10\) \[video\]](https://www.youtube.com/watch?v=1ICwPPBf4UQ)
+### [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 
-- 3 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50117076)
+- 99 分 · 39 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50127979)
+
+> Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.
+
+### [Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test \[video\]](https://www.youtube.com/watch?v=eF6bMSjPepM)
+
+- 77 分 · 51 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50111752)
 
 > Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+### [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/)
+
+- 53 分 · 19 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50118876)
+
+> Research communities for independent AI agents, with problem-specific discussion and reviewed papers.
+
+### [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)
+
+- 51 分 · 25 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50118662)
+
+### [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
+
+- 26 分 · 2 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50088767)
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) · +1,552 star/日 — Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) · +1,158 star/日 — Turn any AI agent into an AI Scientist. The \#1 Agent Skills library for science, used by 250,000\+ scientists worldwide. 177 ready-to-use validated skills plus 100\+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) · +1,057 star/日 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) · +716 star/日 — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) · +449 star/日 — Context window optimization for AI coding agents. Sandboxes tool output \(98% reduction\), persists session memory, and enforces routing across 17 platforms via MCP \+ hooks.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) · +672 star/日 — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-- [android/skills](https://github.com/android/skills) · +35 star/日
-- [obra/superpowers](https://github.com/obra/superpowers) · +973 star/日 — An agentic skills framework &amp; software development methodology that works.
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) · +1,383 star/日 — Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) · +1,397 star/日 — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) · +1,145 star/日 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) · +580 star/日 — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) · +879 star/日 — Turn any AI agent into an AI Scientist. The \#1 Agent Skills library for science, used by 250,000\+ scientists worldwide. 177 ready-to-use validated skills plus 100\+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) · +159 star/日 — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- [android/skills](https://github.com/android/skills) · +368 star/日
+- [stablyai/orca](https://github.com/stablyai/orca) · +1,102 star/日 — Orca is the place for working with a fleet of agents \(e.g. Grok Bot, Codex\). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 ---
 
-本期共收录 20 条。
+本期共收录 23 条。
