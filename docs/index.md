@@ -1,111 +1,107 @@
-# 技术雷达 · 2026-10-23
+# 技术雷达 · 2026-10-24
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+### [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 
-- 2336 分 · 890 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50163277)
+- 623 分 · 697 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50200997)
 
-> DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer
-
-### [Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-
-- 933 分 · 458 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50177916)
-
-> One of eMudhra's certificate authority private keys is the number 4. Not a number that starts with 4, or the number 4 followed by a few hundred random digits, just, 4... Another one is 56, and another is 115.
-
-### [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
-
-- 590 分 · 193 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50181114)
-
-> LiteLLM 1.107.0 on PyPI ships a .pth credential stealer and a sitecustomize.py backdoor that run on every Python start. How the implant got in, what it steals, and indicators of compromise.
-
-### [Claude Duet](https://claude.com/product/claude-duet)
-
-- 551 分 · 522 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50186037)
-
-> Claude Duet is a personal AI agent you message. It handles your inbox, calendar and follow-ups and messages you when something needs you. Join the waitlist.
+> Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that le…
 
 ### [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 
-- 462 分 · 171 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50196718)
+- 521 分 · 194 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50196718)
 
 > https://hackios-web.vercel.app/en
 
 ### [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
 
-- 424 分 · 197 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50198675)
+- 495 分 · 214 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50198675)
 
 > OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell
 
-### [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+### [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 
-- 370 分 · 227 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50202217)
-
-> Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.
-
-### [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
-
-- 241 分 · 242 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50200997)
-
-> Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that le…
-
-### [OpenAI CLI](https://github.com/openai/openai-cli)
-
-- 237 分 · 111 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50191507)
-
-> Official CLI for the OpenAI API. Contribute to openai/openai-cli development by creating an account on GitHub.
-
-### [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
-
-- 210 分 · 100 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50176082)
-
-> LLM-based agents can do a lot of tasks. Or, at least, they can appear to do them. For example, they write code, summarize papers, plan trips, and fill in forms.
+- 221 分 · 62 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50218633)
 
 ### [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
 
-- 124 分 · 43 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50201445)
+- 203 分 · 73 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50201445)
 
 > TL;DR Frontier LLMs are now capable of generating artistic images using SVG. We ask – if these LLMs had to hide a message in an image – how would the…
 
-### [Pentulive \(Puppy Live\) \[video\]](https://yle.fi/t/18-332106/fi)
+### [Remove pgrust: the entry is cheating \(per-query kernels and result caching\)](https://github.com/ClickHouse/ClickBench/pull/2165)
 
-- 68 分 · 9 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50154147)
-
-> Seuraa lagotto romagnolon pentujen elämää suorana Ylen Pentulivessä.
-
-### [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
-
-- 63 分 · 24 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50207405)
-
-> Regeringskansliet inför en spärr för AI-tjänsterna Chat GPT och Claude, som från måndag inte längre kan nås från personalens tjänstedatorer.
-
-### [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165)
-
-- 47 分 · 19 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50205816)
+- 190 分 · 147 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50205816)
 
 > This removes the pgrust entry \(added in \#1163, updated to v0.4-preview in \#2106\) from the benchmark. The results it reports are produced by machinery written specifically for the 43 ClickBench quer...
 
-### [Show HN: Turn regular JavaScript into a neural net](https://chenglou.me/handwired/)
+### [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 
-- 42 分 · 12 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50172984)
+- 113 分 · 31 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50171379)
 
-> Turn your regular JavaScript code into a neural net. No training, exact yet also fully differentiable, runnable in a browser without GPU.
+> Welcome to the digital home of Daniel Ball. Explore my portfolio to see the projects I’ve worked on and learn more about my professional journey.
+
+### [Show HN: Corgi, a helpful \{agent, terminal\} multiplexer](https://corgi.computer/)
+
+- 95 分 · 25 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50214373)
+
+> Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.
+
+### [German court calls Google aerial imagery 'spying'](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
+
+- 60 分 · 44 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50216142)
+
+> After winning a privacy case against Google Street View and Apple Look Around, a homeowner in Frankfurt has scored a win against Google Earth and Google Maps for displaying his property.
+
+### [One Man's Pan Am 747 Replica \[video\]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
+
+- 43 分 · 3 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50215828)
+
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+### [The Best Monopoly Strategy, Tested on 300M Games \[video\]](https://www.youtube.com/watch?v=S_2eVAaw1UM)
+
+- 29 分 · 28 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50175732)
+
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+### [A Cocktail Party in the Street: An Interview with Alan Stillman \(2010\)](https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/)
+
+- 8 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50185715)
+
+### [CowAgent – Open-Source Super AI Assistant](https://cowagent.ai/en/)
+
+- 8 分 · 2 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50218141)
+
+> An open-source super AI assistant &amp; Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge.
+
+### [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
+
+- 3 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50220042)
+
+> TCL 50C721 \(RTD1319 / Mali-G31\) root toolkit — autonomous CVE-2022-22706 exploit chain
+
+### [Claude Code slyly adding users' emails to outbound HTTP](https://twitter.com/chrislakin/status/2113358733548081528)
+
+- 3 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50219875)
+
+> I asked my claude about this and it said it had shared my email 10\+ times this month… including to the SEC
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) · +2,706 star/日 — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [php/php-src](https://github.com/php/php-src) · +722 star/日 — The PHP Interpreter
-- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) · +643 star/日 — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) · +211 star/日 — OpenShell is the safe, private runtime for autonomous AI agents.
-- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) · +547 star/日 — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) · +209 star/日 — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) · +144 star/日 — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-- [nodejs/node](https://github.com/nodejs/node) · +76 star/日 — Node.js JavaScript runtime ✨🐢🚀✨
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) · +2,271 star/日 — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) · +893 star/日 — OpenShell is the safe, private runtime for autonomous AI agents.
+- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) · +11 star/日 — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) · +567 star/日 — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) · +1,053 star/日 — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · +541 star/日 — The design language that makes your AI harness better at design.
+- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) · +421 star/日 — A Tiny biped duck robot 🦆
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) · +38 star/日 — An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ---
 
