@@ -1,98 +1,82 @@
-# 技术雷达 · 2026-10-27
+# 技术雷达 · 2026-10-28
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
-
-- 1652 分 · 1579 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50242939)
-
 ### [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 
-- 763 分 · 103 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50245138)
+- 838 分 · 113 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50245138)
 
 > Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.
 
-### [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+### [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
 
-- 604 分 · 384 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50248124)
+- 541 分 · 280 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50260814)
 
-> https://developers.openai.com/api/docs/models/gpt-6.1-terra
+> The AI company pirated at least 10 Stanford academics’ work in a $1.5 billion copyright settlement.
 
-### [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+### [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 
-- 533 分 · 208 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50215997)
+- 422 分 · 159 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50264853)
 
-> Birdwatching can help slow brain ageing and is increasingly being used as therapy for dementia patients.
+> A free AI assistant and survival library \(1.5 million offline articles\) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.
 
-### [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+### [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 
-- 427 分 · 430 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50236102)
+- 363 分 · 148 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50271640)
 
-> What is “the true cost of a token”?
+> Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates.
 
-### [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+### [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 
-- 252 分 · 94 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50247630)
+- 333 分 · 262 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50261589)
 
-> Because big tech doesn't do customer service, we are being inundated with AI-generated emails begging us for help.
+> Amazon is gutting its AI labs and funneling its resources into a new project headed by a noted AI robotics guru.
 
-### [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+### [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 
-- 231 分 · 86 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50238739)
+- 268 分 · 260 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50265609)
 
-> Your local AI copilot for documents. Contribute to KrushnaVardhanReddy/PaperPilot development by creating an account on GitHub.
+> Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including programs for rare childhood forms of muscular dystrophy.
 
-### [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
+### [Here be monsters: What do you still need to know when agents do the work?](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
 
-- 223 分 · 64 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50236681)
+- 186 分 · 97 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50258868)
 
-> An accelerated FAST feature detector for the ESP32-S3 leveraging 128-bit SIMD instructions, achieving ~2x the performance of the reference implementation.
+> AI agents write code faster than anyone can read it. What engineers still need: fundamentals, breadth, and the willingness to dive in when it breaks.
 
-### [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
+### [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
 
-- 166 分 · 68 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50242870)
+- 63 分 · 13 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50261583)
 
-> Tool call accuracy is an important part of serving open-weight AI models. When your tool calls aren’t accurate, the model builds up on nonsensical context.
+> PHP2Shell, a Node.js RCE, a CVSS 10 GitLab bug, a backdoored LiteLLM and a CA key that was 4. The fixes are out. Can you find every affected resource?
 
-### [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)
+### [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)
 
-- 151 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50246238)
+- 45 分 · 29 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50266701)
 
-> Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps…
+> Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-### [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated)
+### [Discovering and exploiting vulnerabilities in critical software with Claude](https://www.anthropic.com/research/discovering-vulnerabilities-with-claude)
 
-- 84 分 · 92 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50254836)
+- 8 分 · 5 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50270131)
 
-> Route abliterated language models across providers with automatic fallbacks, modality-aware selection, and one place to compare availability and token prices.
-
-### [Reinventing the Pencil Sharpener \[video\]](https://www.youtube.com/watch?v=0Gi5Z51KdUE)
-
-- 79 分 · 15 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50209524)
-
-> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-### [In Context \[video\]](https://www.youtube.com/watch?v=P5eO7BNyJao)
-
-- 28 分 · 2 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50213147)
-
-> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+> Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems.
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) · +2,859 star/日 — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [nightly-labs/openbot](https://github.com/nightly-labs/openbot) · +794 star/日 — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-- [obra/superpowers](https://github.com/obra/superpowers) · +608 star/日 — An agentic skills framework &amp; software development methodology that works.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · +1,458 star/日 — The design language that makes your AI harness better at design.
-- [makecindy/cindy](https://github.com/makecindy/cindy) · +1,446 star/日 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) · +953 star/日 — 📨 The ultimate agentic social media scheduling tool 🤖
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) · +1,183 star/日 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) · +1,587 star/日 — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) · +1,075 star/日 — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) · +1,395 star/日
+- [obra/superpowers](https://github.com/obra/superpowers) · +1,096 star/日 — An agentic skills framework &amp; software development methodology that works.
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) · +2,376 star/日 — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+- [macro-inc/macro](https://github.com/macro-inc/macro) · +106 star/日 — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) · +2,109 star/日 — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · +1,471 star/日 — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+- [makecindy/cindy](https://github.com/makecindy/cindy) · +740 star/日 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 ---
 
-本期共收录 21 条。
+本期共收录 18 条。
