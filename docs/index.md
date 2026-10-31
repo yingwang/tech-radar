@@ -1,110 +1,98 @@
-# 技术雷达 · 2026-10-29
+# 技术雷达 · 2026-10-31
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+### [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 
-- 1162 分 · 400 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50271640)
+- 925 分 · 537 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50300683)
 
-> Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates.
+> https://cursor.com/blog/claude-code-extension-security-notic...
 
-### [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+### [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
 
-- 975 分 · 777 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50276792)
+- 456 分 · 294 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50280864)
 
-> Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.
+> The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.
 
-### [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+### [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 
-- 530 分 · 196 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50264853)
+- 403 分 · 167 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50296486)
 
-> A free AI assistant and survival library \(1.5 million offline articles\) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.
+### [I'm so bad at billiards that I ended up in the hyperbolic plane \[video\]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
 
-### [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+- 246 分 · 37 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50273104)
 
-- 491 分 · 200 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50284255)
-
-> Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent\_summary off · by Flamerix AI, flamerix.ai · MIT - README.md
-
-### [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
-
-- 326 分 · 337 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50265609)
-
-> Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including programs for rare childhood forms of muscular dystrophy.
-
-### [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
-
-- 281 分 · 195 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50251200)
-
-> OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet.
-
-### [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
-
-- 247 分 · 157 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50275626)
-
-> DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.
-
-### [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
-
-- 211 分 · 119 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50285452)
-
-> A single malformed WAP Push SMS crashes com.android.phone on Android. Zero-click, remote, drops emergency calls.
-
-### [Here be monsters: What do you still need to know when agents do the work?](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
-
-- 205 分 · 106 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50258868)
-
-> AI agents write code faster than anyone can read it. What engineers still need: fundamentals, breadth, and the willingness to dive in when it breaks.
-
-### [Gemini 4 Carbon is the new \#1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
-
-- 166 分 · 118 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50288019)
-
-> Google’s Gemini 4 Carbon is the new \#1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index
-
-### [The Agent SDK](https://cursor.com/blog/agent-sdk)
-
-- 134 分 · 129 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50273731)
-
-> The Agent SDK is the framework we use to build our own managed agents like Bugbot, Security Reviewer, and Rollouts. Define agents in code and deploy them with one command.
-
-### [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
-
-- 118 分 · 9 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50256409)
-
-> The missing chapter of Hacker's Delight
-
-### [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
-
-- 69 分 · 59 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50282538)
-
-> XREAL AURA, the first wired XR glasses powered by Android XR, lets you work, watch, and play anywhere with Gemini by your side.
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 ### [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 
-- 68 分 · 3 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50272479)
+- 235 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50272479)
 
-### [Image generation has come a long way since August 2022](https://www.hbrooks.com/writing/image-generation-has-come-a-long-way)
+> https://arxiv.org/pdf/2606.03979
 
-- 59 分 · 26 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50250609)
+### [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
 
-> Founder, ellipsis.dev
+- 140 分 · 38 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50310398)
+
+> Our sans-IO WireGuard implementation in Rust, optimized for ease of use, security and performance through a parallel-friendly and idiomatic API.
+
+### [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
+
+- 127 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50297697)
+
+> Instead of trying to run DOOM on things, I have instead decided to use DOOM \(many, many, many doom games actually\) to create a transformer.
+
+### [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+
+- 86 分 · 36 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50314699)
+
+> By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link.
+
+### [Launch HN: Simantic \(YC F26\) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
+
+- 77 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50291116)
+
+> Hi HN, we're Ahnaf and Seungmin from Simantic \( https://simantic.com \). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.
+
+### [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru)
+
+- 35 分 · 10 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50305218)
+
+> tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks\! I initially built this as a proof-of-concept for sending push notifications to AI a…
+
+### [Executable Archaeology: Reanimating the Heuristic Compiler \(1961\) and KBEmacs \(1984\)](https://arxiv.org/abs/2610.36341)
+
+- 31 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50268478)
+
+> Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program.
+
+### [Why Anthropic's Filing Crushed Tech Stocks](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
+
+- 14 分 · 15 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50315574)
+
+> The trillion dollar Anthropic IPO will enrich Google and Amazon, who are ostensibly competitors. How does that make sense? It doesn’t, unless Anthropic is four flailing monopolies in a trench coat.
+
+### [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
+
+- 12 分 · 3 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50315990)
+
+> An AI startup hacked Anthropic within 12 hours and accessed employee details and internal messages. The breach exposed both personnel information and private company communications.
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) · +1,926 star/日 — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-- [obra/superpowers](https://github.com/obra/superpowers) · +1,037 star/日 — An agentic skills framework &amp; software development methodology that works.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · +2,881 star/日 — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) · +1,116 star/日 — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) · +1,190 star/日 — Open-source Grok Bot alternative with a virtual machine that bots can use
-- [nightly-labs/openbot](https://github.com/nightly-labs/openbot) · +705 star/日 — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) · +1,178 star/日
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · +324 star/日 — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode \+ More
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · +1,723 star/日 — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode \+ More
+- [mattpocock/skills](https://github.com/mattpocock/skills) · +882 star/日 — Skills for Real Engineers. Straight from my .agents directory.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) · +1,347 star/日 — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) · +1,148 star/日
+- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) · +1,093 star/日 — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) · +1,304 star/日 — Open-source Grok Bot alternative with a virtual machine that bots can use
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · +1,339 star/日 — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+- [obra/superpowers](https://github.com/obra/superpowers) · +663 star/日 — An agentic skills framework &amp; software development methodology that works.
 
 ---
 
-本期共收录 23 条。
+本期共收录 21 条。
