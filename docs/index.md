@@ -1,98 +1,106 @@
-# 技术雷达 · 2026-10-31
+# 技术雷达 · 2026-11-01
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
+### [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+
+- 1583 分 · 419 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50319510)
+
+> YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/
+
 ### [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 
-- 925 分 · 537 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50300683)
+- 981 分 · 549 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50300683)
 
 > https://cursor.com/blog/claude-code-extension-security-notic...
 
-### [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
-
-- 456 分 · 294 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50280864)
-
-> The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.
-
 ### [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 
-- 403 分 · 167 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50296486)
+- 413 分 · 169 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50296486)
 
-### [I'm so bad at billiards that I ended up in the hyperbolic plane \[video\]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
+### [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
 
-- 246 分 · 37 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50273104)
+- 406 分 · 227 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50319358)
 
-> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+> Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis.
 
-### [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
+### [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 
-- 235 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50272479)
-
-> https://arxiv.org/pdf/2606.03979
-
-### [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
-
-- 140 分 · 38 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50310398)
-
-> Our sans-IO WireGuard implementation in Rust, optimized for ease of use, security and performance through a parallel-friendly and idiomatic API.
-
-### [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
-
-- 127 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50297697)
-
-> Instead of trying to run DOOM on things, I have instead decided to use DOOM \(many, many, many doom games actually\) to create a transformer.
-
-### [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
-
-- 86 分 · 36 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50314699)
+- 349 分 · 171 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50314699)
 
 > By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link.
 
-### [Launch HN: Simantic \(YC F26\) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
+### [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 
-- 77 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50291116)
+- 261 分 · 49 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50272479)
 
-> Hi HN, we're Ahnaf and Seungmin from Simantic \( https://simantic.com \). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.
+> https://arxiv.org/pdf/2606.03979
 
-### [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru)
+### [I'm so bad at billiards that I ended up in the hyperbolic plane \[video\]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
 
-- 35 分 · 10 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50305218)
+- 254 分 · 39 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50273104)
 
-> tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks\! I initially built this as a proof-of-concept for sending push notifications to AI a…
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-### [Executable Archaeology: Reanimating the Heuristic Compiler \(1961\) and KBEmacs \(1984\)](https://arxiv.org/abs/2610.36341)
+### [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 
-- 31 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50268478)
+- 250 分 · 132 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50316531)
 
-> Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program.
+> The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.
 
-### [Why Anthropic's Filing Crushed Tech Stocks](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
+### [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 
-- 14 分 · 15 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50315574)
+- 241 分 · 119 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50317363)
 
-> The trillion dollar Anthropic IPO will enrich Google and Amazon, who are ostensibly competitors. How does that make sense? It doesn’t, unless Anthropic is four flailing monopolies in a trench coat.
+### [ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)
 
-### [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
+- 191 分 · 130 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50320588)
 
-- 12 分 · 3 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50315990)
+### [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
 
-> An AI startup hacked Anthropic within 12 hours and accessed employee details and internal messages. The breach exposed both personnel information and private company communications.
+- 173 分 · 186 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50318871)
+
+> Edit: Woah, this took off\! If you want more details you can subscribe at the bottom of the post or on YouTube. I’m working on a more detailed highlights/commentary post and video.
+
+### [Anthropic takes steps to block Claude from reverse-engineering video games](https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering)
+
+- 161 分 · 101 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50320255)
+
+> The restrictions are so broad that they're even hurting legitimate game developers and preventing basic troubleshooting tasks.
+
+### [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+
+- 158 分 · 43 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50310398)
+
+> Our sans-IO WireGuard implementation in Rust, optimized for ease of use, security and performance through a parallel-friendly and idiomatic API.
+
+### [No AI, 52 min. Build all Linux Files utils in C by Hand \[video\]](https://www.youtube.com/watch?v=gQRmSlcTq9c)
+
+- 91 分 · 73 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50290480)
+
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+### [Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)
+
+- 87 分 · 5 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50315782)
+
+> All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler.
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · +1,723 star/日 — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode \+ More
-- [mattpocock/skills](https://github.com/mattpocock/skills) · +882 star/日 — Skills for Real Engineers. Straight from my .agents directory.
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) · +1,347 star/日 — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) · +1,148 star/日
-- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) · +1,093 star/日 — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) · +1,304 star/日 — Open-source Grok Bot alternative with a virtual machine that bots can use
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · +1,339 star/日 — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- [obra/superpowers](https://github.com/obra/superpowers) · +663 star/日 — An agentic skills framework &amp; software development methodology that works.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · +1,527 star/日 — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode \+ More
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) · +827 star/日 — Lightpanda: the headless browser designed for AI and automation
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) · +611 star/日 — Kronos: A Foundation Model for the Language of Financial Markets
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) · +3,100 star/日
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) · +919 star/日 — Open-source Grok Bot alternative with a virtual machine that bots can use
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) · +298 star/日 — A collective list of free APIs
+- [cjpais/Handy](https://github.com/cjpais/Handy) · +383 star/日 — A free, open source, and extensible speech-to-text application that works completely offline.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) · +970 star/日 — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 ---
 
-本期共收录 21 条。
+本期共收录 23 条。
