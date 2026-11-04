@@ -1,4 +1,4 @@
-# 技术雷达 · 2026-11-03
+# 技术雷达 · 2026-11-04
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
@@ -6,105 +6,95 @@
 
 ### [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 
-- 2844 分 · 632 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50319510)
+- 2872 分 · 636 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50319510)
 
 > YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/
 
-### [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+### [OpenAI seems to be silently re-enabling model training on Codex chats](https://news.ycombinator.com/item?id=50352757)
 
-- 379 分 · 290 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50344919)
+- 506 分 · 150 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50352757)
 
-> If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer.
+> My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc.
 
-### [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11)
+### [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)
 
-- 339 分 · 263 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50339494)
+- 408 分 · 75 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50346755)
 
-> Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.
+> I saw HackerTube \( https://news.ycombinator.com/item?id=50319510 \) a few days ago, the YouTube videos HN keeps recommending, pulled from 19 years of comments. It made me want to flip through them instead of picking, so I built a TV for it.
 
 ### [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
-- 307 分 · 66 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50346849)
+- 353 分 · 77 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50346849)
 
 > Contribute to JiaFeiMiao-K-Cat/DiscImageStudio development by creating an account on GitHub.
 
-### [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+### [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
 
-- 251 分 · 171 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50345924)
+- 346 分 · 173 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50362905)
 
-### [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
+> A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins.
 
-- 222 分 · 250 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50344958)
+### [Tell HN: Gemini trains on chat history, even for subscribers \(personal accounts\)](https://news.ycombinator.com/item?id=50363461)
 
-> Look at the monthly numbers...
+- 332 分 · 89 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50363461)
+
+> If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions.
 
 ### [Launch HN: Momentic \(YC W24\) – Agents that catch bugs by using your app](https://momentic.ai/)
 
-- 156 分 · 106 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50339913)
+- 161 分 · 126 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50339913)
 
 > Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and \(soon\) desktop apps to catch bugs.
 
-### [uBlock Origin filter to block autoplay videos in TechCrunch](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
+### [Practice speaking Japanese with real YouTube videos, graded line by line](https://jivx.com/yt)
 
-- 119 分 · 36 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50349155)
+- 103 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50352577)
 
-> blog
+> Paste a Japanese YouTube video and JIVX turns its lines into sentences you type or say, each one graded. Or practice with a video someone has already added.
 
-### [Skill to Create Product Videos](https://github.com/aaitor/skill-video-studio)
+### [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city)
 
-- 112 分 · 35 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50340992)
+- 100 分 · 51 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50358352)
 
-> Claude Code skill for product videos: real browser capture, branded composition, and local mastering. - aaitor/skill-video-studio
+> To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places.
 
-### [LLMs are not superhuman at reading and writing neural network weights](https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)
+### [Why Clip Art Was Everywhere Until It Wasn't \[video\]](https://www.youtube.com/watch?v=XfLlpxE6AYM)
 
-- 106 分 · 9 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50344861)
+- 48 分 · 21 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50351298)
 
-> A recent paper argues that frontier LLMs can work with neural network weights directly. This seems superhuman, but it isn’t. The paper shows that GPT-6 Astra…
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-### [Agentic backdoors via pretraining poisoning](https://arxiv.org/abs/2610.37741)
+### [AI Slop Threatens Trust in Science](https://spectrum.ieee.org/ai-slop-trust-science)
 
-- 105 分 · 30 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50341334)
+- 10 分 · 2 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50364330)
 
-> Large language models are pretrained on vast, uncurated corpora scraped from the public web. This creates a security risk from attackers who plant poisoned content in the pretraining data.
+> AI can fake a plausible paper at the push of a button. Can detection tools and peer review keep up?
 
-### [LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)
+### [Pierre Computer is being acquired by OpenAI](https://twitter.com/pierrecomputer/status/2117999036175188183)
 
-- 85 分 · 26 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50337716)
+- 5 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50366863)
 
-> 1.6万亿总参大模型，训练全程由国产芯片完成
+> an announcement from the pierre computer company
 
-### [Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly](https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html)
+### [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)
 
-- 64 分 · 75 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50350560)
+- 5 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50366117)
 
-> The filing, spotted by Business Insider, shows that Anthropic recorded more than $1.7 billion in personnel expenses from July through to September. With 5,300 people working at...
-
-### [When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP](https://arxiv.org/abs/2610.40269)
-
-- 22 分 · 14 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50330033)
-
-> Pasting a legacy file into an LLM and asking it to "modernize this" is an easy shortcut. But is the result better than leaving the code alone? In this paper, we study this single-file setting with five LLMs, each asked to modernize 100 Word…
-
-### [Open models can do 90 percent of agentic work at a twentieth of the cost](https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132)
-
-- 20 分 · 4 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50349222)
-
-> Models are commodities, harnesses are the valuable part
+> I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · +1,138 star/日 — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode \+ More
-- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) · +3,792 star/日 — Computer use CLI for AI agents
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) · +437 star/日 — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) · +803 star/日 — A hierarchical inference engine for frontier MoE models: hot experts on the GPU \(CUDA, Vulkan\), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
-- [mattpocock/skills](https://github.com/mattpocock/skills) · +1,164 star/日 — Skills for Real Engineers. Straight from my .agents directory.
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) · +699 star/日 — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
-- [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) · +94 star/日
-- [floci-io/floci](https://github.com/floci-io/floci) · +219 star/日 — Light, fluffy, and always free - The AWS Local Emulator alternative
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) · +2,053 star/日 — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) · +524 star/日 — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- [mattpocock/skills](https://github.com/mattpocock/skills) · +1,376 star/日 — Skills for Real Engineers. Straight from my .agents directory.
+- [floci-io/floci](https://github.com/floci-io/floci) · +1,082 star/日 — Light, fluffy, and always free - The AWS Local Emulator alternative
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · +1,165 star/日 — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode \+ More
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) · +2,463 star/日 — Computer use CLI for AI agents
+- [github/spec-kit](https://github.com/github/spec-kit) · +810 star/日 — 💫 Toolkit to help you get started with SDD or any other process\!
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · +279 star/日 — 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 ---
 
-本期共收录 23 条。
+本期共收录 21 条。
