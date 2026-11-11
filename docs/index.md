@@ -1,4 +1,4 @@
-# 技术雷达 · 2026-11-10
+# 技术雷达 · 2026-11-11
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
@@ -6,87 +6,105 @@
 
 ### [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 
-- 771 分 · 909 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50429068)
+- 904 分 · 1024 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50429068)
 
 > Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.
 
-### [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+### [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
 
-- 751 分 · 228 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50418176)
+- 483 分 · 185 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50452455)
 
-> Free, open-source 3D modeling for woodworking and furniture design. Plan shelves, tables, and cabinets with precise dimensions on Windows, macOS, Linux, or in your browser.
+> AI agents analyzed NASA lidar data overnight and found a Maya site under the jungle that isn't on any map. Less than 72 hours later, Mexico's INAH replied.
 
-### [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
+### [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 
-- 684 分 · 143 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50429426)
+- 437 分 · 207 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50447074)
 
-> Documentation of Gemini File Leaking Behavior. Contribute to thisisme6598/gemini\_files development by creating an account on GitHub.
+> Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild.
 
-### [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
+### [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
 
-- 358 分 · 261 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50431144)
+- 414 分 · 135 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443812)
 
-> Analysis of Anthropic's Claude Fable 5.2 \(Max, Default Fallback\) and comparison to other AI models across key metrics including quality, price, performance \(time per Intelligence Index task &amp; time to first answer token\), context window &amp; mo…
+> Browsers natively handle a lot of what used to take 50 lines of JS \(or a dependency\): \`CSS.highlights\` for text range highlighting without &lt;span&gt;s everywhere, \`&lt;dialog&gt;\` and showModal\(\) give you backdrops and ideal focus management, \`field-…
 
-### [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
+### [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
 
-- 177 分 · 16 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50386246)
+- 264 分 · 200 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443716)
 
-> The basics of GPUs, profilers, distributed computation, and kernel optimization
+> Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans.
 
-### [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
+### [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)
 
-- 154 分 · 24 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50429545)
+- 121 分 · 79 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443587)
 
-### [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934)
-
-- 115 分 · 46 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50427934)
-
-> Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use \(in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use\).
+> It started with automating his emails.
 
 ### [Billion Watts in the Speaker \[video\]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
 
-- 69 分 · 36 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50408336)
+- 112 分 · 57 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50408336)
 
 > Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-### [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
+### [An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)
 
-- 33 分 · 11 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50413970)
+- 91 分 · 10 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443714)
 
-> I built this because it was useful for me when building evals/benchmarks, and I decided to put it up for free for others. The goal was quite simple, make it easy to use a lead claude code / codex session in a panel on the side, while allowi…
+> A field guide to inference concepts, production operations, tooling, and career development for platform engineers.
 
-### [Anthropic launches roadshow for proposed initial public offering](https://www.anthropic.com/news/roadshow-launch)
+### [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
 
-- 20 分 · 26 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50438891)
+- 85 分 · 18 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50448340)
 
-> Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.
+> 16 LLMs took on TIS-100's community leaderboard and found 133 new frontier points on 18 of 55 puzzles, including 3 outright cycle records.
 
-### [Echoloc: A minimalist echolocation horror videogame](https://level102.itch.io/echoloc)
+### [Sherman Anti-Trust Act \(1890\)](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
 
-- 13 分 · 4 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50405682)
+- 85 分 · 52 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50446219)
 
-> You are blind. Click your tongue to see. They hear it too.
+> EnlargeDownload Link Citation: Act of July 2, 1890\(Sherman Anti-Trust Act\), July 2, 1890; Enrolled Acts and Resolutions of Congress, 1789-1992; General Records of the United States Government; Record Group 11; National Archives.
 
-### [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh)
+### [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://arxiv.org/abs/2611.10866)
 
-- 3 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50439141)
+- 28 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50447363)
 
-> Cosh is an open-source AI agent built in Rust that brings together multiple agents like Codex and Goose in a unified environment for orchestration and collaboration.
+> How little of a pretrained large language model \(LLM\) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning \(FFT\) at scale across three L…
+
+### [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+
+- 25 分 · 12 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50453637)
+
+> Atuin Threads: one searchable, synced history for every agent session, on every machine Start a task in Claude Code, then resume it in Codex
+
+### [Show HN: Godbolt-in-a-floating-window for Neovim \(C, C\+\+, Rust\)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
+
+- 19 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50453229)
+
+> No internet connection needed. Uses a locally-installed compiler for assembly generation.
+
+### [Subagents Conwidered Harmful](https://nikvdp.com/notes/subagents-considered-harmful/)
+
+- 18 分 · 5 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50450268)
+
+### [Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM](https://github.com/NeuraCryption/SPECTRA)
+
+- 12 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50450729)
+
+> Contribute to NeuraCryption/SPECTRA development by creating an account on GitHub.
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [meta/astryx](https://github.com/meta/astryx) · +3,111 star/日 — An open source design system that's fully customizable and agent ready
-- [anthropics/skills](https://github.com/anthropics/skills) · +1,676 star/日 — Public repository for Agent Skills
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) · +465 star/日 — Production-grade engineering skills for AI coding agents.
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) · +530 star/日 — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) · +453 star/日 — Multi-Joint dynamics with Contact. A general purpose physics simulator.
-- [we-promise/sure](https://github.com/we-promise/sure) · +184 star/日 — The personal finance app for everyone \(by everyone\)
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) · +792 star/日 — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) · +775 star/日 — Browser automation CLI for AI agents
+- [meta/astryx](https://github.com/meta/astryx) · +2,842 star/日 — An open source design system that's fully customizable and agent ready
+- [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) · +429 star/日 — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) · +133 star/日
+- [shadcn/improve](https://github.com/shadcn/improve) · +333 star/日 — Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) · +788 star/日 — Production-grade engineering skills for AI coding agents.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) · +712 star/日 — Browser automation CLI for AI agents
+- [we-promise/sure](https://github.com/we-promise/sure) · +1,079 star/日 — The personal finance app for everyone \(by everyone\)
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) · +640 star/日 — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 
 ---
 
-本期共收录 20 条。
+本期共收录 23 条。
