@@ -1,110 +1,106 @@
-# 技术雷达 · 2026-11-11
+# 技术雷达 · 2026-11-12
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+### [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)
 
-- 904 分 · 1024 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50429068)
+- 1022 分 · 379 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50452455)
 
-> Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.
+> AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn't in Mexico's official register yet.
 
-### [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
+### [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 
-- 483 分 · 185 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50452455)
+- 633 分 · 654 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50458900)
 
-> AI agents analyzed NASA lidar data overnight and found a Maya site under the jungle that isn't on any map. Less than 72 hours later, Mexico's INAH replied.
+> Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.
 
-### [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+### [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 
-- 437 分 · 207 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50447074)
+- 516 分 · 149 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50456791)
 
-> Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild.
+> Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
 
-### [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
+### [Anthropic IPO](https://ipo.anthropic.com/us/)
 
-- 414 分 · 135 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443812)
+- 345 分 · 372 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50465829)
 
-> Browsers natively handle a lot of what used to take 50 lines of JS \(or a dependency\): \`CSS.highlights\` for text range highlighting without &lt;span&gt;s everywhere, \`&lt;dialog&gt;\` and showModal\(\) give you backdrops and ideal focus management, \`field-…
+> Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information.
 
 ### [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
 
-- 264 分 · 200 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443716)
+- 287 分 · 217 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443716)
 
 > Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans.
 
-### [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)
-
-- 121 分 · 79 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443587)
-
-> It started with automating his emails.
-
-### [Billion Watts in the Speaker \[video\]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
-
-- 112 分 · 57 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50408336)
-
-> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-### [An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)
-
-- 91 分 · 10 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50443714)
-
-> A field guide to inference concepts, production operations, tooling, and career development for platform engineers.
-
-### [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
-
-- 85 分 · 18 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50448340)
-
-> 16 LLMs took on TIS-100's community leaderboard and found 133 new frontier points on 18 of 55 puzzles, including 3 outright cycle records.
-
-### [Sherman Anti-Trust Act \(1890\)](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
-
-- 85 分 · 52 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50446219)
-
-> EnlargeDownload Link Citation: Act of July 2, 1890\(Sherman Anti-Trust Act\), July 2, 1890; Enrolled Acts and Resolutions of Congress, 1789-1992; General Records of the United States Government; Record Group 11; National Archives.
-
-### [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://arxiv.org/abs/2611.10866)
-
-- 28 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50447363)
-
-> How little of a pretrained large language model \(LLM\) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning \(FFT\) at scale across three L…
-
 ### [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 
-- 25 分 · 12 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50453637)
+- 228 分 · 82 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50453637)
 
 > Atuin Threads: one searchable, synced history for every agent session, on every machine Start a task in Claude Code, then resume it in Codex
 
+### [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
+
+- 225 分 · 38 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50455633)
+
+> Maximum inner product search \(MIPS\) sits at the core of recommendation systems, search, and retrieval-augmented generation \(RAG\). Given a…
+
+### [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
+
+- 126 分 · 31 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50458166)
+
+> SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch. - huawei-csl/MACaQ
+
+### [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
+
+- 123 分 · 62 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50415162)
+
+> Or how to produce a €60 lettuce. Eleven sensors, a camera, an old phone and an agent that waters my vegetables.
+
 ### [Show HN: Godbolt-in-a-floating-window for Neovim \(C, C\+\+, Rust\)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
 
-- 19 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50453229)
+- 103 分 · 19 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50453229)
 
 > No internet connection needed. Uses a locally-installed compiler for assembly generation.
 
-### [Subagents Conwidered Harmful](https://nikvdp.com/notes/subagents-considered-harmful/)
+### [Launch HN: Pomerado \(YC F26\) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
 
-- 18 分 · 5 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50450268)
+- 57 分 · 47 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50455811)
 
-### [Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM](https://github.com/NeuraCryption/SPECTRA)
+> Hi HN, we’re Alan and Akshay from Pomerado \( https://pomerado.ai/ \). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.
 
-- 12 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50450729)
+### [Porting my Electron app to Rust: 675 MB to 91 MB](https://sayjot.xyz/blog/rust-port)
 
-> Contribute to NeuraCryption/SPECTRA development by creating an account on GitHub.
+- 32 分 · 4 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50460887)
+
+> Jot 2.0 replaces Electron with Rust on Rune: 675 MB to 91 MB, one process with no IPC, one OS API for three platforms, and a parity audit against 1.1.4.
+
+### [ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser](https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/)
+
+- 5 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50467383)
+
+> TL;DR PyTorch models now run in the web browser on the GPU through ExecuTorch, with no conversion to another framework’s format. You export with torch.export to an ExecuTorch .pte file,...
+
+### [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
+
+- 3 分 · 1 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50468888)
+
+> maxxing the ability to run different LLMs on the smallest devices possible - hyperionaidev/smolmaxxing
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [meta/astryx](https://github.com/meta/astryx) · +2,842 star/日 — An open source design system that's fully customizable and agent ready
-- [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) · +429 star/日 — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) · +133 star/日
-- [shadcn/improve](https://github.com/shadcn/improve) · +333 star/日 — Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) · +788 star/日 — Production-grade engineering skills for AI coding agents.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) · +712 star/日 — Browser automation CLI for AI agents
-- [we-promise/sure](https://github.com/we-promise/sure) · +1,079 star/日 — The personal finance app for everyone \(by everyone\)
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) · +640 star/日 — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) · +799 star/日
+- [openai/codex-security](https://github.com/openai/codex-security) · +663 star/日 — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) · +79 star/日 — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+- [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) · +390 star/日 — Enable Hermès Watch Faces on any Apple Watch devices
+- [we-promise/sure](https://github.com/we-promise/sure) · +974 star/日 — The personal finance app for everyone \(by everyone\)
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) · +151 star/日 — An open-source AI coding agent that lives in your terminal.
+- [ashhart/TensorFold](https://github.com/ashhart/TensorFold) · +58 star/日 — LLM Inference Engine for Metal, CUDA and Vulkan.
+- [nodejs/node](https://github.com/nodejs/node) · +133 star/日 — Node.js JavaScript runtime ✨🐢🚀✨
 
 ---
 
-本期共收录 23 条。
+本期共收录 22 条。
