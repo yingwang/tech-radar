@@ -1,109 +1,107 @@
-# 技术雷达 · 2026-11-13
+# 技术雷达 · 2026-11-14
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Anthropic IPO](https://ipo.anthropic.com/us/)
-
-- 979 分 · 886 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50465829)
-
-> Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information.
-
 ### [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
-- 796 分 · 291 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50472038)
+- 886 分 · 316 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50472038)
 
 > Empowering everyone to build reliable and efficient software.
 
+### [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+
+- 797 分 · 470 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50493251)
+
+> Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal \(via Wccftech\) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups th…
+
 ### [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 
-- 553 分 · 343 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50471431)
+- 565 分 · 350 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50471431)
 
 > Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows
 
 ### [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 
-- 467 分 · 142 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50472260)
+- 501 分 · 161 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50472260)
 
 > Today, we're rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…
 
-### [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
-
-- 426 分 · 164 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50468888)
-
-> maxxing the ability to run different LLMs on the smallest devices possible - hyperionaidev/smolmaxxing
-
 ### [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
 
-- 382 分 · 324 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481187)
+- 489 分 · 388 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481187)
 
 > Claude's Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.
 
-### [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
+### [Jonathan Blow – If AI solved coding, why is my software still the same? \[video\]](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 
-- 329 分 · 130 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50474883)
+- 372 分 · 511 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484658)
 
-> Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that…
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-### [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
+### [AI is destroying the trust between writers and readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 
-- 237 分 · 39 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50455633)
-
-> Maximum inner product search \(MIPS\) sits at the core of recommendation systems, search, and retrieval-augmented generation \(RAG\). Given a…
-
-### [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
-
-- 235 分 · 84 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50453637)
-
-> Atuin Threads: one searchable, synced history for every agent session, on every machine Start a task in Claude Code, then resume it in Codex
+- 352 分 · 213 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481870)
 
 ### [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
 
-- 198 分 · 109 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50477649)
+- 260 分 · 150 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50477649)
 
 > Developers and AI agents can now pay for the Brave Search API on demand with USDC via the open x402 protocol, settling each query in real time without an account or API key.
 
-### [Claude Is Down](https://status.claude.com/history)
+### [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 
-- 174 分 · 151 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481220)
+- 223 分 · 142 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484235)
 
-> Claude's Incident and Scheduled Maintenance History
+> Hi all, the technical leadership committee of the Haskell Foundation has been successfully bootstrapped\! We have spent the last few weeks discussing our vision and strategy and are now fully operational.
+
+### [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
+
+- 199 分 · 56 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50491980)
+
+> Guide to running Qwen3.8 quants including Qwen3.8-27B on your local setup.
 
 ### [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 
-- 172 分 · 96 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50458849)
+- 178 分 · 110 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50458849)
 
 > Relax is a live compiler and JIT runtime for Rust, written in Rust. It runs a Cargo package straight from source, with no rustc, LLVM or linker in the loop.
 
-### [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
+### [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)
 
-- 143 分 · 75 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50415162)
+- 172 分 · 72 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50487184)
 
-> Or how to produce a €60 lettuce. Eleven sensors, a camera, an old phone and an agent that waters my vegetables.
+> OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
 
-### [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
+### [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 
-- 125 分 · 30 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50471650)
+- 148 分 · 52 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484007)
 
-> We \(GREP.AI, YC F26\) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... .
+> The big one in this release is federation: Lonewolf can now talk to other XMPP servers. We also added direct TLS and a handful of extensions that desktop clients rely on. Lonewolf is still pre-1.0 ...
 
-### [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
+### [Claude Meetings](https://claude.com/resources/articles/claude-meetings)
 
-- 101 分 · 22 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481870)
+- 103 分 · 79 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50491097)
+
+> Add Claude to your video calls to take notes, answer questions, and build docs and whiteboards while your team talks.
+
+### [Ctrl\+C, Ctrl\+v, Ctrl\+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)
+
+- 94 分 · 47 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50487605)
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) · +206 star/日 — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines \+ LLM Agent, precise line-level comments, built-in multi-language ruleset \(NPE, thread-safety, XSS, SQL injection\), OpenAI &amp; Anthropic compatible.
-- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) · +1,875 star/日 — Keep your coding agent up to date with the latest web best practices
-- [openai/codex-security](https://github.com/openai/codex-security) · +754 star/日 — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
-- [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) · +272 star/日 — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-- [we-promise/sure](https://github.com/we-promise/sure) · +944 star/日 — The personal finance app for everyone \(by everyone\)
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) · +100 star/日 — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) · +61 star/日 — A fancy self-hosted monitoring tool
-- [block/buzz](https://github.com/block/buzz) · +95 star/日 — A hive mind communication platform
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) · +412 star/日 — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) · +1,225 star/日 — Keep your coding agent up to date with the latest web best practices
+- [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) · +556 star/日 — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) · +673 star/日 — Chrome DevTools for coding agents
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) · +897 star/日 — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines \+ LLM Agent, precise line-level comments, built-in multi-language ruleset \(NPE, thread-safety, XSS, SQL injection\), OpenAI &amp; Anthropic compatible.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) · +462 star/日 — An open-source AI coding agent that lives in your terminal.
+- [dream-num/univer](https://github.com/dream-num/univer) · +495 star/日 — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) · +9 star/日 — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 ---
 
