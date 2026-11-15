@@ -1,107 +1,105 @@
-# 技术雷达 · 2026-11-14
+# 技术雷达 · 2026-11-15
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-
-- 886 分 · 316 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50472038)
-
-> Empowering everyone to build reliable and efficient software.
-
 ### [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
-- 797 分 · 470 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50493251)
+- 1083 分 · 643 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50493251)
 
 > Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal \(via Wccftech\) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups th…
 
-### [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+### [KDE: The documentary \[video\]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
 
-- 565 分 · 350 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50471431)
+- 529 分 · 121 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50496976)
 
-> Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows
-
-### [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
-
-- 501 分 · 161 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50472260)
-
-> Today, we're rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…
-
-### [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
-
-- 489 分 · 388 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481187)
-
-> Claude's Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.
+> KDE: The Documentary tells the story of the pioneering open source community that gave computer users a free and open alternative to proprietary desktops like Windows. The story starts in 1996, whe...
 
 ### [Jonathan Blow – If AI solved coding, why is my software still the same? \[video\]](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 
-- 372 分 · 511 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484658)
+- 474 分 · 717 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484658)
 
 > Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-### [AI is destroying the trust between writers and readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
+### [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
 
-- 352 分 · 213 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481870)
+- 407 分 · 178 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50474883)
 
-### [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
+> https://twitter.com/willdepue/status/2120992457630326841
 
-- 260 分 · 150 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50477649)
+### [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
 
-> Developers and AI agents can now pay for the Brave Search API on demand with USDC via the open x402 protocol, settling each query in real time without an account or API key.
+- 390 分 · 293 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50497009)
 
-### [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
+### [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
 
-- 223 分 · 142 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484235)
+- 177 分 · 171 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50478701)
 
-> Hi all, the technical leadership committee of the Haskell Foundation has been successfully bootstrapped\! We have spent the last few weeks discussing our vision and strategy and are now fully operational.
-
-### [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
-
-- 199 分 · 56 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50491980)
-
-> Guide to running Qwen3.8 quants including Qwen3.8-27B on your local setup.
-
-### [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
-
-- 178 分 · 110 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50458849)
-
-> Relax is a live compiler and JIT runtime for Rust, written in Rust. It runs a Cargo package straight from source, with no rustc, LLVM or linker in the loop.
-
-### [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)
-
-- 172 分 · 72 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50487184)
-
-> OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
+> Knowing What You Trust: Three patterns behind memory safety bugs we found in Rust's standard library, and why Rust's safety model still matters even though it isn't perfect.
 
 ### [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 
-- 148 分 · 52 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484007)
+- 160 分 · 54 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50484007)
 
 > The big one in this release is federation: Lonewolf can now talk to other XMPP servers. We also added direct TLS and a handful of extensions that desktop clients rely on. Lonewolf is still pre-1.0 ...
 
-### [Claude Meetings](https://claude.com/resources/articles/claude-meetings)
+### [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
 
-- 103 分 · 79 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50491097)
+- 159 分 · 40 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50497132)
 
-> Add Claude to your video calls to take notes, answer questions, and build docs and whiteboards while your team talks.
+> Hey HN readers\! I'm snipedbywifi \( https://gitlab.com/snipedbywifi \), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish\! The game is a factory gam…
+
+### [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
+
+- 140 分 · 68 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50497155)
+
+> Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations connected over ConnectX-8 RDMA serve one…
+
+### [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)
+
+- 104 分 · 30 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50497147)
+
+> A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view. - paul-nameless/agweb
 
 ### [Ctrl\+C, Ctrl\+v, Ctrl\+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)
 
-- 94 分 · 47 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50487605)
+- 104 分 · 58 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50487605)
+
+### [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
+
+- 44 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50506376)
+
+> The Methods Behind How LLMs Represent Token Positions
+
+### [What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)
+
+- 41 分 · 10 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481321)
+
+> I mapped thousands of conversations inside Qwen to see how language takes shape.
+
+### [Jensen Huang allegedly manufactured the GPU shortage](https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/)
+
+- 35 分 · 21 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50505905)
+
+> New details reveal that former NVIDIA CEO Jensen Huang used circular financing to fund AI startups and absorb excess TSMC wafers and memory rather than letting GPU prices drop
+
+### [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/)
+
+- 21 分 · 8 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50481056)
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) · +412 star/日 — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) · +1,225 star/日 — Keep your coding agent up to date with the latest web best practices
-- [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) · +556 star/日 — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) · +673 star/日 — Chrome DevTools for coding agents
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) · +897 star/日 — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines \+ LLM Agent, precise line-level comments, built-in multi-language ruleset \(NPE, thread-safety, XSS, SQL injection\), OpenAI &amp; Anthropic compatible.
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) · +462 star/日 — An open-source AI coding agent that lives in your terminal.
-- [dream-num/univer](https://github.com/dream-num/univer) · +495 star/日 — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) · +9 star/日 — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+- [dream-num/univer](https://github.com/dream-num/univer) · +1,041 star/日 — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) · +393 star/日 — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) · +248 star/日 — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) · +860 star/日 — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) · +718 star/日 — Chrome DevTools for coding agents
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) · +688 star/日 — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines \+ LLM Agent, precise line-level comments, built-in multi-language ruleset \(NPE, thread-safety, XSS, SQL injection\), OpenAI &amp; Anthropic compatible.
+- [Tencent/LoopForge](https://github.com/Tencent/LoopForge) · +484 star/日 — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+- [ggml-org/ggml](https://github.com/ggml-org/ggml) · +154 star/日 — Tensor library for machine learning
 
 ---
 
