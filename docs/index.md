@@ -1,101 +1,107 @@
-# 技术雷达 · 2026-11-18
+# 技术雷达 · 2026-11-19
 
 > 自动抓取，数据来自 Hacker News 与 GitHub Trending，按关注方向筛选。标题与描述保留英文原文，链接可直达。
 
 ## Hacker News 热门
 
-### [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+### [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 
-- 1326 分 · 834 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50535230)
+- 969 分 · 739 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50552424)
 
-### [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
+> Today, we’re introducing Gemini 4 Neon
 
-- 289 分 · 229 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50529612)
+### [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 
-> How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest.
+- 477 分 · 238 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50547777)
 
-### [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
+> LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI
 
-- 287 分 · 373 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50538303)
+### [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
 
-> Harvard study: AI coding agents raised code output 30 percent; finished work did not measurably rise, and getting code through review took 49 percent longer.
+- 372 分 · 695 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50553843)
 
-### [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
+> Today Anthropic, PBC priced its initial public offering of its Class A common stock.
 
-- 234 分 · 34 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50543989)
+### [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)
 
-> One learned energy refines, stops and selects. Over 99% Sudoku-Extreme accuracy with 1.8M parameters, up to 345x fewer inference FLOPs than EqR at comparable accuracy.
+- 288 分 · 72 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50553225)
+
+> I have been hacking both hardware and software for 2 decades. Previously manually. But in 2026 with the help of AIs the proccess is greatly sped up. Below I wil
 
 ### [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
 
-- 226 分 · 119 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50541790)
+- 271 分 · 139 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50541790)
 
 > Gemini 4 Carbon spent close to an hour on tasks that Opus and Astra finished in minutes. We traced every step of its runs to find out why.
 
-### [Nimony: A New Compiler for Nim](https://nimony.org/)
+### [Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/)
 
-- 192 分 · 113 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50512779)
+- 245 分 · 76 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50554374)
 
-### [Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models)
+> TLDR: we project Gemini 4 Neon’s performance based on what a faster Gemini 4 Carbon might score and find it equivalent to Opus 5.5 Gemini 4 Carbon is the best model on the Agent Duel leaderboard if you exclude early voting.
 
-- 173 分 · 72 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50535740)
+### [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
 
-> How we use decision models
+- 218 分 · 163 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50549493)
 
-### [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
+### [Nintendo takes Picofly firmware down from GitHub \[video\]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
 
-- 132 分 · 58 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50541619)
+- 150 分 · 49 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50547048)
 
-> A next-amino-acid test on little-studied proteins finds that the latest Claude models were trained on protein sequences at scale. Other frontier models show no sign of it.
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-### [Turbo Pascal Compiler Written in Turbo Pascal](https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal)
+### [Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)
 
-- 113 分 · 46 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50509456)
+- 116 分 · 11 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50523377)
 
-### [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+> I type "forklift" on a live warehouse camera, and tamserve finds and tracks both forklifts, including the one driving in. Then I add "person" without stopping it. tamserve runs Meta's SAM 3 on live camera feeds.
 
-- 96 分 · 24 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50540472)
+### [Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)
 
-> Cerebras pairs AMD GPUs for prefill with wafer-scale decode to deliver 5× more tokens per megawatt without reducing token generation speed.
+- 77 分 · 17 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50510385)
 
-### [Launch HN: StarSling \(YC P25\) – Self-improving CI for agent-volume repos](https://news.ycombinator.com/item?id=50536468)
+> How Meta’s Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon.
 
-- 85 分 · 40 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50536468)
+### [Launch HN: Maritime \(YC F26\) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 
-> We’re Yonas and Daniel and we’re building StarSling \( https://starsling.dev \), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.
+- 57 分 · 53 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50549188)
 
-### [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
+> Hi HN, we're Ary and Maria, co-founders of Maritime \( https://maritime.sh \). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.
 
-- 55 分 · 5 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50539039)
+### [OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)
 
-> Latent Lattice Language Models: per-layer horizontal latent streams that persist across tokens, alongside the vertical residual stream.
+- 56 分 · 17 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50560461)
 
-### [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)
+> Media over QUIC: Your voice AI keeps asking "can you repeat that?" because WebRTC throws away your words. MoQ dun do that.
 
-- 53 分 · 7 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50533270)
+### [Show HN: Watch weight-space programming in action with WebGPU](https://tabbyml.github.io/weight-space-playground/)
 
-> Hi HN, Sanchit here from RunAnywhere \(YC W26\). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium.
+- 5 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50561436)
 
-### [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
+> I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM.
 
-- 52 分 · 32 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50535898)
+### [Arizona says it is investigating OpenAI, other firms over possible rogue agents](https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/)
 
-### [Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI](https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5)
+- 5 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50561282)
 
-- 12 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50547223)
+### ["Independent" AI Safety Groups Are Pumping Anthropic's IPO \[video\]](https://www.youtube.com/watch?v=pyRG_5dCrfg)
+
+- 3 分 · 0 条讨论 · [HN 讨论帖](https://news.ycombinator.com/item?id=50561434)
+
+> Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 ## GitHub Trending
 
 ### 全部语言
 
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) · +2,322 star/日 — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity \+ infrastructure attack matrices.
-- [cursor/plugins](https://github.com/cursor/plugins) · +315 star/日 — Cursor plugin specification and official plugins
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) · +384 star/日 — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) · +1,062 star/日 — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) · +547 star/日 — Modern Docker Management, Designed for Everyone
-- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) · +323 star/日 — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) · +199 star/日 — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-- [astral-sh/uv](https://github.com/astral-sh/uv) · +260 star/日 — An extremely fast Python package and project manager, written in Rust.
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) · +1,353 star/日 — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity \+ infrastructure attack matrices.
+- [obra/superpowers](https://github.com/obra/superpowers) · +2,029 star/日 — An agentic skills framework &amp; software development methodology that works.
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) · +899 star/日 — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) · +301 star/日 — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+- [cursor/plugins](https://github.com/cursor/plugins) · +383 star/日 — Cursor plugin specification and official plugins
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) · +795 star/日 — Knowledge infrastructure to make your agents smarter. Search, scrape and 550\+ data providers through one API.
+- [nginx/nginx](https://github.com/nginx/nginx) · +66 star/日 — The official NGINX Open Source repository.
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) · +246 star/日 — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
 ---
 
